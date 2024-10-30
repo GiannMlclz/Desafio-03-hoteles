@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(61, 100, 167);
+}
+div {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(187, 83, 151);
+    letter-spacing: 18px;
+    font-weight: 300;
+    font-size: 40px;
+    text-align: center;
+}
+
+.subtitulo-1 {
+    color: rgb(187, 83, 151);
+    letter-spacing: 8px;
+    font-weight: 300;
+}
+
+.imagen-derecha {
+    float: right;
+    width: 500px;
+    margin-left: 20px;
+}
