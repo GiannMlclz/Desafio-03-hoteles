@@ -6,6 +6,11 @@ div {
     text-align: center;
 }
 
+.imagen-inicio {
+width: 600px;
+}
+
+
 h1 {
     color: rgb(187, 83, 151);
     letter-spacing: 18px;

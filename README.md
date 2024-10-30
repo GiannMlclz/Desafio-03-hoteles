@@ -10,3 +10,20 @@ centramos la imagen del comienzo poniendo un (div) y adentro text-align: center;
 <img src="" alt="">
 float, text-size, width, margin, color
 ```
+
+### Pasamos el repositorio a Git
+
+```sh
+git remote add origin https://github.com/GiannMlclz/Desafio-03-hoteles.git
+git push -u origin main
+```
+### Verificamos el codigo
+
+```sh
+https://validator.w3.org/
+```
+
+### Link a Netlify
+```sh
+https://desafio-03-hoteles.netlify.app/
+```
