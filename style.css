@@ -14,7 +14,7 @@ h1 {
     text-align: center;
 }
 
-.subtitulo-1 {
+.subtitulo {
     color: rgb(187, 83, 151);
     letter-spacing: 8px;
     font-weight: 300;
@@ -22,6 +22,17 @@ h1 {
 
 .imagen-derecha {
     float: right;
-    width: 500px;
+    width: 450px;
     margin-left: 20px;
+}
+
+.imagen-izquierda {
+    float: left;
+    width: 500px;
+    margin-right: 20px;
+}
+
+#subtitulo-2 {
+    letter-spacing: 10px;
+    color: rgb(187, 83, 151);
 }
